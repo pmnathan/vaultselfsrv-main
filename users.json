@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "prakash_manglanathan",
+            "email" : "prakash@hashicorp.com",
+            "department": "finance"
+        },
+        {
+            "username": "dean_richardson",
+            "email" : "dean@hashicorp.com",
+            "department": "finance"
+        },
+        {
+            "username": "greg_lorang",
+            "email" : "greg@hashicorp.com",
+            "department": "finance"
+        }
+    ]
+}
