@@ -25,4 +25,10 @@ module "main" {
   for_each  = toset(local.usernames)
   username  = each.key
   json_data = local.raw_data
+  
+  
+  depends_on = [
+    vault_namespace.finance,
+    vault_namespace.engineering,
+  ]
 }
