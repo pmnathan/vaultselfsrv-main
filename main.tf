@@ -1,4 +1,7 @@
 provider "vault" {
+}
+
+provider "vault" {
   alias = "root"
 }
 
