@@ -14,6 +14,11 @@
             "username": "greg_lorang",
             "email" : "greg@hashicorp.com",
             "department": "finance"
+        },
+        {
+            "username": "john_doe",
+            "email" : "jdoe@hashicorp.com",
+            "department": "finance"
         }
     ]
 }
