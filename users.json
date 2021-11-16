@@ -19,6 +19,12 @@
             "username": "john_doe",
             "email" : "jdoe@hashicorp.com",
             "department": "finance"
+        },
+        {
+            "username": "jane_doe",
+            "email" : "jane@hashicorp.com",
+            "department": "engineering"
         }
+        
     ]
 }
